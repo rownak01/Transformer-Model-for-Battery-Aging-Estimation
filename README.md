@@ -13,14 +13,7 @@ This folder contains the core implementation of the generalized **PITM_G** model
     * Subfolders containing the corresponding trained models.
     * Data files required for training and validation.
 
-### 2. Powertrain Simulator
-This directory focuses on the application of the model in realistic driving scenarios. We integrated the PITM battery aging model into a powertrain architecture to demonstrate its performance under real-world conditions.
-* **Structure:** It contains **3 subfolders**, each corresponding to a different **drive cycle** used in the analysis.
-* **Contents:**
-    * Simulation scripts for each drive cycle.
-    * Integration code for the PITM model within the powertrain framework.
-
-### 3. Single group
+### 2. Single group
 This folder contains the baseline or specific group studies.
 * **Structure:** It contains **5 subfolders**.
 * **Contents:**
